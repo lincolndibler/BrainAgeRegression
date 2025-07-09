@@ -15,7 +15,7 @@ This project uses 3D convolutional neural networks to predict brain age from str
 
 ## Paper  
 For full methodology, results, and figures, see the project write-up:  
-📄 [BrainAgeRegression.pdf](BrainAgeRegression/BrainAgeRegression.pdf)
+📄 [BrainAgeRegression.pdf](BrainAgeRegression.pdf)
 
 ## Dataset
 This project uses publicly available structural MRI scans from the [OASIS dataset](https://www.oasis-brains.org/).
